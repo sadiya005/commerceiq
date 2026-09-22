@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+pandas
+numpy
+python-dotenv
+groq
+pydantic
+pytest
+httpx
+python-multipart

@@ -23,18 +23,14 @@ env/
 !.env.example
 
 # =========================
-# Jupyter
-# =========================
-
-.ipynb_checkpoints/
-
-# =========================
 # Data
+# Keep only production API data
 # =========================
 
-data/raw/*
-data/processed/*
-data/external/*
+data/*
+!data/customer_features.csv
+!data/product_features.csv
+!data/order_analytics.csv
 
 # =========================
 # Models
