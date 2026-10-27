@@ -557,7 +557,7 @@ MTech Data Science | AI & Machine Learning
 
 ---
 
-## ⭐ Why This Project Matters
+## ⭐ Why This Project Matters 
 
 CommerceIQ goes beyond a standalone machine learning notebook or chatbot.
 
